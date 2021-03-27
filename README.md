@@ -9,4 +9,4 @@ Open, openiv (for those of you who don't have it, here's the link: https://openi
 
 Disclaimer: do NOT start this resource by itself! It will not work! Tested and won't work under ANY conditions!
 
-Screenshots below:
+Screenshots are included!
